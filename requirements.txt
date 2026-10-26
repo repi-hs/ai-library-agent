@@ -1,0 +1,8 @@
+# 이번 기본 검증에서 실제 사용한 패키지 버전. 새 설치는 수행하지 않음.
+langchain==1.4.2
+langchain-core==1.6.5
+langchain-ollama==1.1.0
+langgraph==1.2.12
+langgraph-checkpoint==4.2.0
+langgraph-prebuilt==1.1.0
+pydantic==2.13.5
